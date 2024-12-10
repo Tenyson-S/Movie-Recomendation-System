@@ -4,6 +4,7 @@ C++ Code in Visual Studio Code :
 
 Install MinGW MySYS2 on System then add path on environment to perform C++ Code File
 
+Steps and purpose of functions :
 1. int matrix[numUsers][numMovies]:
 We use a 2D array to store the ratings matrix, which has a fixed size of numUsers by numMovies.
 
